@@ -13,7 +13,7 @@ python -m pip install -r requirements.txt
 ### From console
 
 ```commandline
-python SRA/App.pyw
+python SC/App.pyw
 ```
 
 ### From explorer
